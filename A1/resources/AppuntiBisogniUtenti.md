@@ -1,4 +1,4 @@
-# Bisogni 2
+# Bisogni
 
 ### 1. Pianificazione e Centralizzazione
 
